@@ -128,6 +128,6 @@ Exploring embedded systems, electronics, and automation — strengthening the br
 
 ---
 
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4FF&height=60&section=footer" />
 </p>
