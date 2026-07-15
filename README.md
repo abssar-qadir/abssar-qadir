@@ -122,20 +122,20 @@ Exploring embedded systems, electronics, and automation — strengthening the br
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abssar-qadir&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abssar-qadir&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abssar-qadir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abssar-qadir&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abssar-qadir&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abssar-qadir&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abssar-qadir&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abssar-qadir&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
 
 ---
+
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4FF&height=60&section=footer" />
 </p>
