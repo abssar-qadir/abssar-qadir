@@ -77,8 +77,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square)
-![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-88CE02?style=flat-square)
-![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-111111?style=flat-square)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-777BB4?style=flat-square)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-FF6C37?style=flat-square)
 
 ---
 
@@ -110,15 +110,14 @@
 
 ---
 
-### Architecture & Engineering
+### 📚 Currently Learning
 
-`Enterprise Software` `Business Operating Systems` `System Architecture` `Modular PHP` `MVC` `Documentation Engineering` `Workflow Automation` `Business Process Automation` `Security` `Scalable Web Applications` `Software Design` `Database Design` `AI Integration`
-
----
-
-### Currently Learning
-
-`Laravel` `React` `Node.js` `Docker` `AWS` `Agentic AI` `AI Orchestration` `Business Operations` `Business Management` `Sales` `Scalable Architecture` `Production Deployment` `Performance Optimization` `Cloud Infrastructure` `Data Modeling` `Database Optimization` `Software Architecture` `DevOps`
+| Priority | Topics |
+|:--|:--|
+| 🤖 **AI & Agents** | Agentic AI, AI Orchestration |
+| 📈 **Business & Sales** | Sales, Scalable Architecture |
+| ⚡ **Modern Stack** | Laravel, React, Node.js, Docker |
+| ☁️ **Cloud & DevOps** | AWS, Cloud Infrastructure, DevOps |
 
 ---
 
