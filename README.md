@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founder_%40_Qadryx-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=00B4FF" />
-  <img src="https://img.shields.io/github/followers/syed-abssar?style=flat-square&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/syed-abssar?style=flat-square&color=0e75b6" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=visitors&color=0e75b6&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fgithub%2Fsyed-abssar" />
+  <img src="https://img.shields.io/github/followers/abssar-qadir?style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/abssar-qadir?style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=visitors&color=0e75b6&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fgithub%2Fabssar-qadir" />
 </p>
 
 > I design and build **Business Operating Systems** — platforms that eliminate operational complexity, centralize workflows, and help organizations scale with confidence.
@@ -103,10 +103,18 @@ Exploring embedded systems, electronics, and automation — strengthening the br
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://qadryx.com"><img src="https://img.shields.io/badge/🌐_Website-qadryx.com-00B4FF?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/syed-abssar"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:qadryx.ai@gmail.com"><img src="https://img.shields.io/badge/📧_Business-qadryx.ai@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
-  <a href="mailto:absardev@gmail.com"><img src="https://img.shields.io/badge/📧_Personal-absardev@gmail.com-FF7139?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://qadryx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Qadryx-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abssar-qadir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abssar_Qadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:qadryx.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Business_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:absardev@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-FF7139?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -114,20 +122,20 @@ Exploring embedded systems, electronics, and automation — strengthening the br
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syed-abssar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-abssar&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abssar-qadir&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abssar-qadir&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syed-abssar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abssar-qadir&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syed-abssar&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abssar-qadir&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" />
 </p>
 
 ---
-
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4FF&height=60&section=footer" />
 </p>
